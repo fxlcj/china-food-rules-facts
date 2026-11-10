@@ -62,7 +62,7 @@ The rules themselves are not secret — China's national legislature, regulators
 | 36 | `heritage` | Guangzhou's morning-tea custom (广府饮茶习俗) was listed as Guangdong provincial intangible cultural heritage in 2022 (8th batch, No. Ⅹ-82). | provincial ICH 2022 | [广东省文化和旅游厅（第八批省级非遗保护单位通知）](https://whly.gd.gov.cn/open_newggl/content/post_4058518.html) | 2026-11-10 |
 | 37 | `heritage` | Cantonese morning tea has formal customs: 一盅两件, knocking to thank the tea server, lifting the lid to refill, and stamping the dim-sum card. | tea customs recorded | [广东侨网（广府饮茶习俗）](https://www.qb.gd.gov.cn/jrqx/content/post_975663.html) | 2026-11-10 |
 | 38 | `heritage` | Chen Mapo tofu technique was listed as Sichuan provincial intangible cultural heritage in 2011; the brand dates to 1862. | provincial ICH 2011 / est. 1862 | [台州市椒江区人民政府（陈麻婆豆腐非遗）](https://www.jj.gov.cn/art/2024/5/28/art_1311043_59088097.html) | 2026-11-10 |
-| 39 | `heritage` | Chengdu was designated a UNESCO Creative City of Gastronomy in 2010. | UNESCO City of Gastronomy 2010 | [UNESCO Creative Cities Network（Chengdu）](https://www.unesco.org/creative-cities/chengdu) | 2026-11-10 |
+| 39 | `heritage` | Chengdu was designated a UNESCO Creative City of Gastronomy in 2010. | UNESCO City of Gastronomy 2010 | [商务部流通发展司（成都获联合国教科文组织「美食之都」称号，2010-02-10）](https://ltfzs.mofcom.gov.cn/jyjl/art/2010/art_7084ed9c5b474f4c8e0abe3b54d533cf.html) | 2026-11-10 |
 
 ## What is *not* in this file
 
