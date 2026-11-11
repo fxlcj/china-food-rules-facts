@@ -2,8 +2,8 @@
   "dataset": "china-food-rules-facts",
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-10",
-  "count": 39,
+  "checked_on": "2026-11-11",
+  "count": 43,
   "facts": [
     {
       "id": 1,
@@ -355,6 +355,42 @@
       "source_url": "https://ltfzs.mofcom.gov.cn/jyjl/art/2010/art_7084ed9c5b474f4c8e0abe3b54d533cf.html",
       "checked_on": "2026-11-10",
       "source_article_slug": "best-cities-for-food-in-china-faq"
+    },
+    {
+      "id": 40,
+      "topic": "food_rules",
+      "claim": "Under the Anti-Food-Waste Law, a restaurant that fails to actively remind diners to avoid waste is ordered to correct the practice and given a warning.",
+      "figure": "Art. 28 Anti-Food-Waste Law · warning",
+      "source_url": "http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html",
+      "checked_on": "2026-11-11",
+      "source_article_slug": "hot-pot-ordering"
+    },
+    {
+      "id": 41,
+      "topic": "food_rules",
+      "claim": "Food producers and operators that cause serious food waste in production or operation are ordered to correct; if they refuse, they face a 5,000-50,000 CNY fine.",
+      "figure": "5,000-50,000 CNY",
+      "source_url": "http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html",
+      "checked_on": "2026-11-11",
+      "source_article_slug": "hot-pot-ordering"
+    },
+    {
+      "id": 42,
+      "topic": "food_rules",
+      "claim": "A unit with a canteen that fails to establish or implement anti-waste measures is ordered to correct and given a warning.",
+      "figure": "Art. 29 Anti-Food-Waste Law · warning",
+      "source_url": "http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html",
+      "checked_on": "2026-11-11",
+      "source_article_slug": "hot-pot-ordering"
+    },
+    {
+      "id": 43,
+      "topic": "food_rules",
+      "claim": "Radio stations, TV stations and online audio-video providers that make or spread programmes promoting overeating are ordered to correct and warned; if they refuse or the case is serious, they face a 10,000-100,000 CNY fine.",
+      "figure": "10,000-100,000 CNY",
+      "source_url": "http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html",
+      "checked_on": "2026-11-11",
+      "source_article_slug": "hot-pot-ordering"
     }
   ]
 }
