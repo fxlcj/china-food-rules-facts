@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-11
+- Quality revert: the 08:55 auto-sync added 1 entry (Henan Luoyang water-banquet
+  heritage description) that falls outside this repo's scope (dining/ordering
+  rules, not cultural description). Reverted; repo back at 39 entries. Net 0.
+  Quality rule first, numbers never padded (same precedent as 2026-11-10).
+
 ## 2026-11-10
 - 建仓：从 food 主题 15 篇已发布英文文章的官方外链句 / FAQ 数字句 / 官方源直采中，逐条 curl 验证官方源后收录 39 条事实（点餐流程、买单与小费、过敏与食品标签、街头小吃、官方认定）。
 - 口径：与铁路仓一致——可引用资产，不计外链成绩、不进三个数、不推广。
