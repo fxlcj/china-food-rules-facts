@@ -2,8 +2,8 @@
   "dataset": "china-food-rules-facts",
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-10",
-  "count": 39,
+  "checked_on": "2026-11-11",
+  "count": 40,
   "facts": [
     {
       "id": 1,
@@ -355,6 +355,18 @@
       "source_url": "https://ltfzs.mofcom.gov.cn/jyjl/art/2010/art_7084ed9c5b474f4c8e0abe3b54d533cf.html",
       "checked_on": "2026-11-10",
       "source_article_slug": "best-cities-for-food-in-china-faq"
+    },
+    {
+      "id": 40,
+      "topic": "food_rules",
+      "claim": "The signature is the water banquet (水席), a national intangible heritage item listed in 2008 , with 24 dishes served in sequence: eight cold appetizers, four main dishes, eight middle dishes, and four closing dishes.",
+      "figure": "2008",
+      "source_url": "https://hct.henan.gov.cn/2022/10-05/2617670.html",
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09",
+      "added_from": "article-sync"
     }
-  ]
+  ],
+  "updated": "2026-11-11",
+  "version": "2026.11"
 }

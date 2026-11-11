@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-11 — incremental sync from published articles
+
+- 1 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
+
 ## 2026-11-10
 - 建仓：从 food 主题 15 篇已发布英文文章的官方外链句 / FAQ 数字句 / 官方源直采中，逐条 curl 验证官方源后收录 39 条事实（点餐流程、买单与小费、过敏与食品标签、街头小吃、官方认定）。
 - 口径：与铁路仓一致——可引用资产，不计外链成绩、不进三个数、不推广。
