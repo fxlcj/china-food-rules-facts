@@ -3,7 +3,7 @@
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
   "checked_on": "2026-11-13",
-  "count": 44,
+  "count": 47,
   "facts": [
     {
       "id": 1,
@@ -401,6 +401,36 @@
       "checked_on": "2026-11-13",
       "recheck_by": "2027-02-11",
       "added_from": "article-sync"
+    },
+    {
+      "id": 45,
+      "topic": "tea",
+      "claim": "China is the only country that produces all six major types of tea: green, black (red), oolong, dark (black), white and yellow tea. It has 21 tea-producing provinces and more than 1,000 tea-producing counties.",
+      "figure": "6 tea categories",
+      "source_url": "https://www.ctma.com.cn/index.php/xiehuidongtai/81201.html",
+      "source_name": "China Tea Marketing Association (data cited from National Bureau of Statistics)",
+      "checked_on": "2026-11-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 46,
+      "topic": "tea",
+      "claim": "World tea production reached 7.052 million tonnes in 2024, of which China produced 3.74 million tonnes — more than half the global total. China's breakdown: green tea 2.4482 million t, black tea 413,200 t, oolong 376,700 t, dark tea 242,700 t, white tea 101,400 t, yellow tea 13,600 t.",
+      "figure": "3.74 million t annual output 2024",
+      "source_url": "https://www.ctma.com.cn/index.php/xiehuidongtai/81201.html",
+      "source_name": "China Tea Marketing Association (data cited from National Bureau of Statistics)",
+      "checked_on": "2026-11-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 47,
+      "topic": "food",
+      "claim": "China's catering revenue reached CNY 5.5718 trillion in 2024, up 5.3% year on year, within total retail sales of consumer goods of CNY 48.79 trillion (up 3.5%).",
+      "figure": "CNY 5.57 trillion catering revenue 2024",
+      "source_url": "https://www.stats.gov.cn/zwfwck/sjfb/202501/t20250117_1958332.html",
+      "source_name": "National Bureau of Statistics",
+      "checked_on": "2026-11-12",
+      "added_from": "db-backfill"
     }
   ]
 }
