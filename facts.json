@@ -2,8 +2,8 @@
   "dataset": "china-food-rules-facts",
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-11",
-  "count": 43,
+  "checked_on": "2026-11-13",
+  "count": 44,
   "facts": [
     {
       "id": 1,
@@ -391,6 +391,16 @@
       "source_url": "http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html",
       "checked_on": "2026-11-11",
       "source_article_slug": "hot-pot-ordering"
+    },
+    {
+      "id": 44,
+      "topic": "food_rules",
+      "claim": "One food-city rule is documented rather than a matter of taste: Luoyang's 水席 (water banquet) is a nationally listed intangible heritage item served as 24 dishes in a fixed sequence, a structure described by the Henan Provincial Department of Culture and Tourism ( source ).",
+      "figure": "24",
+      "source_url": "https://hct.henan.gov.cn/2022/10-05/2617670.html",
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-11",
+      "added_from": "article-sync"
     }
   ]
 }

@@ -4,6 +4,10 @@
   rules, not cultural description). Reverted; repo back at 39 entries. Net 0.
   Quality rule first, numbers never padded (same precedent as 2026-11-10).
 
+## 2026-11-13 — incremental sync from published articles
+
+- 1 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
+
 ## 2026-11-11 — expanded with official-source facts
 
 - 4 entries added directly from official Chinese government sources (rail: NRA/PSB Announcement No.1 items catalogue; food: Anti-Food-Waste Law; payment: Interim Regulation on Express Delivery; festival: holiday-decision amendment). Total now 43.

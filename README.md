@@ -4,7 +4,7 @@ A reference for the food rules that visitors to China most often trip on: how or
 
 Every row carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a figure anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 39 entries, machine-readable
+- `facts.json` — the same 44 entries, machine-readable
 
 - The human-readable version, with worked examples: <https://jiunotes.top/en/food/>
 
@@ -67,7 +67,7 @@ The rules themselves are not secret — China's national legislature, regulators
 | 41 | `food_rules` | Food producers and operators that cause serious food waste in production or operation are ordered to correct; if they refuse, they face a 5,000-50,000 CNY fine. | 5,000-50,000 CNY | [npc.gov.cn](http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html) | 2026-11-11 |
 | 42 | `food_rules` | A unit with a canteen that fails to establish or implement anti-waste measures is ordered to correct and given a warning. | Art. 29 Anti-Food-Waste Law · warning | [npc.gov.cn](http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html) | 2026-11-11 |
 | 43 | `food_rules` | Radio stations, TV stations and online audio-video providers that make or spread programmes promoting overeating are ordered to correct and warned; if they refuse or the case is serious, they face a 10,000-100,000 CNY fine. | 10,000-100,000 CNY | [npc.gov.cn](http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html) | 2026-11-11 |
-
+| 44 | `food_rules` | One food-city rule is documented rather than a matter of taste: Luoyang's 水席 (water banquet) is a nationally listed intangible heritage item served as 24 dishes in a fixed sequence, a structure described by the Henan Provincial Department of Culture and Tourism ( source ). | 24 | [hct.henan.gov.cn](https://hct.henan.gov.cn/2022/10-05/2617670.html) | 2026-11-13 |
 ## What is *not* in this file
 
 - **Live prices.** Menu prices move with city, venue and season; only a specific posted price on the day is real, and no national figure exists.
