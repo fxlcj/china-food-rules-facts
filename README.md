@@ -4,7 +4,7 @@ A reference for the food rules that visitors to China most often trip on: how or
 
 Every row carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a figure anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 44 entries, machine-readable
+- `facts.json` — the same 48 entries, machine-readable
 
 - The human-readable version, with worked examples: <https://jiunotes.top/en/food/>
 
@@ -68,9 +68,10 @@ The rules themselves are not secret — China's national legislature, regulators
 | 42 | `food_rules` | A unit with a canteen that fails to establish or implement anti-waste measures is ordered to correct and given a warning. | Art. 29 Anti-Food-Waste Law · warning | [npc.gov.cn](http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html) | 2026-11-11 |
 | 43 | `food_rules` | Radio stations, TV stations and online audio-video providers that make or spread programmes promoting overeating are ordered to correct and warned; if they refuse or the case is serious, they face a 10,000-100,000 CNY fine. | 10,000-100,000 CNY | [npc.gov.cn](http://npc.gov.cn/c2/c30834/202104/t20210429_311300.html) | 2026-11-11 |
 | 44 | `food_rules` | One food-city rule is documented rather than a matter of taste: Luoyang's 水席 (water banquet) is a nationally listed intangible heritage item served as 24 dishes in a fixed sequence, a structure described by the Henan Provincial Department of Culture and Tourism ( source ). | 24 | [hct.henan.gov.cn](https://hct.henan.gov.cn/2022/10-05/2617670.html) | 2026-11-13 |
-| 45 | `tea` | China is the only country that produces all six major types of tea: green, black (red), oolong, dark (black), white and yellow tea. It has 21 tea-producing provinces and more than 1,000 tea-producing counties. | 6 tea categories | [China Tea Marketing Association (data cited from National Bureau of Statistics)](https://www.ctma.com.cn/index.php/xiehuidongtai/81201.html) | 2026-11-12 |
-| 46 | `tea` | World tea production reached 7.052 million tonnes in 2024, of which China produced 3.74 million tonnes — more than half the global total. China's breakdown: green tea 2.4482 million t, black tea 413,200 t, oolong 376,700 t, dark tea 242,700 t, white tea 101,400 t, yellow tea 13,600 t. | 3.74 million t annual output 2024 | [China Tea Marketing Association (data cited from National Bureau of Statistics)](https://www.ctma.com.cn/index.php/xiehuidongtai/81201.html) | 2026-11-12 |
-| 47 | `food` | China's catering revenue reached CNY 5.5718 trillion in 2024, up 5.3% year on year, within total retail sales of consumer goods of CNY 48.79 trillion (up 3.5%). | CNY 5.57 trillion catering revenue 2024 | [National Bureau of Statistics](https://www.stats.gov.cn/zwfwck/sjfb/202501/t20250117_1958332.html) | 2026-11-12 |
+| 45 | `tea` | China is the only country that produces all six major types of tea: green, black (red), oolong, dark (black), white and yellow tea. It has 21 tea-producing provinces and more than 1,000 tea-producing counties. | 6 tea categories | [www.ctma.com.cn](https://www.ctma.com.cn/index.php/xiehuidongtai/81201.html) | 2026-11-12 |
+| 46 | `tea` | World tea production reached 7.052 million tonnes in 2024, of which China produced 3.74 million tonnes — more than half the global total. China's breakdown: green tea 2.4482 million t, black tea 413,200 t, oolong 376,700 t, dark tea 242,700 t, white tea 101,400 t, yellow tea 13,600 t. | 3.74 million t annual output 2024 | [www.ctma.com.cn](https://www.ctma.com.cn/index.php/xiehuidongtai/81201.html) | 2026-11-12 |
+| 47 | `food` | China's catering revenue reached CNY 5.5718 trillion in 2024, up 5.3% year on year, within total retail sales of consumer goods of CNY 48.79 trillion (up 3.5%). | CNY 5.57 trillion catering revenue 2024 | [www.stats.gov.cn](https://www.stats.gov.cn/zwfwck/sjfb/202501/t20250117_1958332.html) | 2026-11-12 |
+| 48 | `food_rules` | 56, published in the State Council gazette — issued 14 April 2022, in force since 1 July 2022: Article 7 on item names, prices and pricing units; Article 8 on unmarked fees; Article 9 on numerals and characters; Article 12 on the permitted forms of price display; Article 15 on the itemised list. | 56, | [www.gov.cn](http://www.gov.cn/gongbao/content/2022/content_5699926.htm) | 2026-11-14 |
 ## What is *not* in this file
 
 - **Live prices.** Menu prices move with city, venue and season; only a specific posted price on the day is real, and no national figure exists.

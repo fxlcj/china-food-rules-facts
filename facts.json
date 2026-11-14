@@ -2,8 +2,8 @@
   "dataset": "china-food-rules-facts",
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-13",
-  "count": 47,
+  "checked_on": "2026-11-14",
+  "count": 48,
   "facts": [
     {
       "id": 1,
@@ -431,6 +431,16 @@
       "source_name": "National Bureau of Statistics",
       "checked_on": "2026-11-12",
       "added_from": "db-backfill"
+    },
+    {
+      "id": 48,
+      "topic": "food_rules",
+      "claim": "56, published in the State Council gazette — issued 14 April 2022, in force since 1 July 2022: Article 7 on item names, prices and pricing units; Article 8 on unmarked fees; Article 9 on numerals and characters; Article 12 on the permitted forms of price display; Article 15 on the itemised list.",
+      "figure": "56,",
+      "source_url": "http://www.gov.cn/gongbao/content/2022/content_5699926.htm",
+      "checked_on": "2026-11-14",
+      "recheck_by": "2027-02-12",
+      "added_from": "article-sync"
     }
   ]
 }
