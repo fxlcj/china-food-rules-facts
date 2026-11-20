@@ -2,8 +2,8 @@
   "dataset": "china-food-rules-facts",
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-14",
-  "count": 48,
+  "checked_on": "2026-11-20",
+  "count": 51,
   "facts": [
     {
       "id": 1,
@@ -441,6 +441,39 @@
       "checked_on": "2026-11-14",
       "recheck_by": "2027-02-12",
       "added_from": "article-sync"
+    },
+    {
+      "id": 49,
+      "topic": "food",
+      "claim": "In 2024 Yunnan's coffee planting area reached 1.267 million mu (84,500 ha) with output of 146,000 tonnes, accounting for over 98% of China's national coffee production; the province's comprehensive coffee industry value exceeded CNY 41.8 billion, ranking first nationwide.",
+      "figure": "98%+ of national output (2024) Yunnan coffee output share (2024)",
+      "source_url": "https://www.stats.gov.cn/zs/tjwh/tjkw/tjqk/zgxxb/202508/P020250825563812535675.pdf",
+      "source_name": "National Bureau of Statistics (中国信息报·国家统计局)",
+      "checked_on": "2026-11-20",
+      "added_from": "db-backfill",
+      "db_fact_id": 265
+    },
+    {
+      "id": 50,
+      "topic": "food",
+      "claim": "Feitian Kweichow Moutai (飞天贵州茅台酒), the flagship Moutai product, is a 53% vol sauce-aroma (酱香型) baijiu sold in 500 ml bottles, brewed from local glutinous sorghum, wheat and water at Moutai Town on the Chishui River, Guizhou.",
+      "figure": "53% vol / 500 ml Moutai flagship product spec",
+      "source_url": "https://www.moutaichina.com/mtgf/index/index.html",
+      "source_name": "Kweichow Moutai Co., Ltd. official site (贵州茅台股份有限公司官网)",
+      "checked_on": "2026-11-20",
+      "added_from": "db-backfill",
+      "db_fact_id": 266
+    },
+    {
+      "id": 51,
+      "topic": "food",
+      "claim": "A bottle of Moutai liquor takes five years from raw material input to shipment, going through five major craft stages (qu-making, brewing, aging, blending, packaging) with 30 processes and 165 craft steps; its brewing technique is inscribed on China's national intangible cultural heritage list.",
+      "figure": "5 years / 30 processes / 165 steps Moutai brewing craft timeline",
+      "source_url": "https://www.moutaichina.com/mtgf/index/index.html",
+      "source_name": "Kweichow Moutai Co., Ltd. official site (贵州茅台股份有限公司官网)",
+      "checked_on": "2026-11-20",
+      "added_from": "db-backfill",
+      "db_fact_id": 267
     }
   ]
 }
