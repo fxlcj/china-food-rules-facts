@@ -2,8 +2,8 @@
   "dataset": "china-food-rules-facts",
   "homepage": "https://jiunotes.top/en/food/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-20",
-  "count": 51,
+  "checked_on": "2026-11-23",
+  "count": 53,
   "facts": [
     {
       "id": 1,
@@ -474,6 +474,26 @@
       "checked_on": "2026-11-20",
       "added_from": "db-backfill",
       "db_fact_id": 267
+    },
+    {
+      "id": 52,
+      "topic": "food_label",
+      "claim": "On the standard side: under China's national baijiu terminology standards GB/T 15109-2021 and GB/T 17204-2021 , enforced from June 2022, a bottle labelled 白酒 must be brewed from grain only, with no added food alcohol or flavouring.",
+      "figure": "15109-2021",
+      "source_url": "https://scnanbu.gov.cn/zwgk/fdzdgknr/jdjc/spyp/202210/t20221026_1738911.html",
+      "checked_on": "2026-11-23",
+      "recheck_by": "2027-02-21",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 53,
+      "topic": "food_rules",
+      "claim": "That assessment is published in Chinese too: the Yanan city market regulator notes that the FAO/WHO Joint Expert Committee on Food Additives (JECFA) found MSG highly safe with no need to set a daily intake limit, and that GB 2760-2014 permits monosodium glutamate in foods as needed.",
+      "figure": "2760-2014",
+      "source_url": "https://scjg.yanan.gov.cn/jdhy/kpzs/1561687005912481793.html",
+      "checked_on": "2026-11-23",
+      "recheck_by": "2027-02-21",
+      "added_from": "article-sync"
     }
   ]
 }
